@@ -14,6 +14,7 @@
 #include <sys/msg.h>
 #include <stdlib.h>
 
+/* CVE-2022-2588 */
 
 static char newlink[] = {
         /* len */
